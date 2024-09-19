@@ -50,7 +50,7 @@ header{
 .navbar a{
     color: var(--textcolor);
     font-size: 1.7rem;
-    margin: 1rem;
+    margin: 3rem;
     position: relative;
     transition: 0.5s;
 }
@@ -173,8 +173,9 @@ header{
 }
 
 .home .home-right-content img{
-    width: 100%;
+    width: 130%;
     margin-top: 4rem;
+    background:transparent !important;
 }
 
 .technology{
